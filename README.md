@@ -2,6 +2,6 @@
 
 Quelques captures d'application :
 
-![95688937_277365390094978_6584368796742451200_n](https://user-images.githubusercontent.com/56236244/81034556-773a5300-8e8f-11ea-8c64-b061bb5b3cc7.jpg)
+<img width="300" alt="Capture d’écran 2020-05-05 à 05 17 13" src="https://user-images.githubusercontent.com/56236244/81034654-caaca100-8e8f-11ea-9468-cc804cc96a98.png">
 
 
